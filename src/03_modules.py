@@ -11,7 +11,6 @@ import sys
 # Print out the command line arguments in sys.argv, one per line:
 # YOUR CODE HERE
 
-print(f'The name of this file is {sys.argv[0]}')
 
 for arg in sys.argv: 
     print(f'Arg: {arg}')
